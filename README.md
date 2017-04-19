@@ -4,7 +4,7 @@ I tried to find a workaround around the platform lack of support with HTTP/1.1 a
 [RUN-BEGIN]: # (cmd:run.sh, stubs:[src/index.htm:html, src/style.css])
 
 Run this program
-----------------
+---------------
 
 ```javascript,/project/target/src/hello.js
 function hello() {
