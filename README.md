@@ -3,7 +3,8 @@ I tried to find a workaround around the platform lack of support with HTTP/1.1 a
 
 [RUN-BEGIN]: # (cmd:run.sh)
 
-```html,/project/target/src/index.html```
+```html,/project/target/src/index.html
+```
 
 ```javascript,/project/target/src/hello.js
 function hello() {
