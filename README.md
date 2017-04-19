@@ -19,4 +19,6 @@ Or for content where everything is hidden:
 
 [RUN]: # (cmd:run.sh, stub:src/hello.js, title:Execute this program)
 
+_you will actually need to go to the source code to actually see this_
+
 test
